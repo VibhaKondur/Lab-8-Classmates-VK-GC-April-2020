@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "GC Lab 8 Classmates VK 4-30-2020/1.0.0": {
+        "runtime": {
+          "GC Lab 8 Classmates VK 4-30-2020.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GC Lab 8 Classmates VK 4-30-2020/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
